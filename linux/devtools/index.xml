@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BLINKS – DevTools</title>
-    <link>/linux/devtools/</link>
+    <link>https://sriramkandukuri.github.io/blinks/linux/devtools/</link>
     <description>Recent content in DevTools on BLINKS</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="/linux/devtools/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://sriramkandukuri.github.io/blinks/linux/devtools/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Linux: Vim</title>
-      <link>/linux/devtools/vim/</link>
+      <link>https://sriramkandukuri.github.io/blinks/linux/devtools/vim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/linux/devtools/vim/</guid>
+      <guid>https://sriramkandukuri.github.io/blinks/linux/devtools/vim/</guid>
       <description>
         
         
@@ -35,10 +35,10 @@
     
     <item>
       <title>Linux: Git</title>
-      <link>/linux/devtools/git/</link>
+      <link>https://sriramkandukuri.github.io/blinks/linux/devtools/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/linux/devtools/git/</guid>
+      <guid>https://sriramkandukuri.github.io/blinks/linux/devtools/git/</guid>
       <description>
         
         
@@ -55,10 +55,10 @@
     
     <item>
       <title>Linux: DevEnv</title>
-      <link>/linux/devtools/devenv/</link>
+      <link>https://sriramkandukuri.github.io/blinks/linux/devtools/devenv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/linux/devtools/devenv/</guid>
+      <guid>https://sriramkandukuri.github.io/blinks/linux/devtools/devenv/</guid>
       <description>
         
         
@@ -75,10 +75,10 @@
     
     <item>
       <title>Linux: Tmux</title>
-      <link>/linux/devtools/tmux/</link>
+      <link>https://sriramkandukuri.github.io/blinks/linux/devtools/tmux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/linux/devtools/tmux/</guid>
+      <guid>https://sriramkandukuri.github.io/blinks/linux/devtools/tmux/</guid>
       <description>
         
         
