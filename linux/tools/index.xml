@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BLINKS – Tools</title>
-    <link>https://sriramkandukuri.github.io/blinks/linux/tools/</link>
+    <link>https://blinks.lnet.in/linux/tools/</link>
     <description>Recent content in Tools on BLINKS</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://sriramkandukuri.github.io/blinks/linux/tools/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://blinks.lnet.in/linux/tools/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Linux: RFC to requirements</title>
-      <link>https://sriramkandukuri.github.io/blinks/linux/tools/rfc2req/</link>
+      <link>https://blinks.lnet.in/linux/tools/rfc2req/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sriramkandukuri.github.io/blinks/linux/tools/rfc2req/</guid>
+      <guid>https://blinks.lnet.in/linux/tools/rfc2req/</guid>
       <description>
         
         
@@ -49,8 +49,8 @@
 &lt;h2 id=&#34;where-should-i-go-next&#34;&gt;Where should I go next?&lt;/h2&gt;
 &lt;p&gt;Give your users next steps from the Overview. For example:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sriramkandukuri.github.io/blinks/getting-started/&#34;&gt;Getting Started&lt;/a&gt;: Get started with $project&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sriramkandukuri.github.io/blinks/examples/&#34;&gt;Examples&lt;/a&gt;: Check out some example code!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blinks.lnet.in/getting-started/&#34;&gt;Getting Started&lt;/a&gt;: Get started with $project&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blinks.lnet.in/examples/&#34;&gt;Examples&lt;/a&gt;: Check out some example code!&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -58,10 +58,10 @@
     
     <item>
       <title>Linux: CVE extractor</title>
-      <link>https://sriramkandukuri.github.io/blinks/linux/tools/cve/</link>
+      <link>https://blinks.lnet.in/linux/tools/cve/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sriramkandukuri.github.io/blinks/linux/tools/cve/</guid>
+      <guid>https://blinks.lnet.in/linux/tools/cve/</guid>
       <description>
         
         
@@ -92,8 +92,8 @@
 &lt;h2 id=&#34;where-should-i-go-next&#34;&gt;Where should I go next?&lt;/h2&gt;
 &lt;p&gt;Give your users next steps from the Overview. For example:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sriramkandukuri.github.io/blinks/getting-started/&#34;&gt;Getting Started&lt;/a&gt;: Get started with $project&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sriramkandukuri.github.io/blinks/examples/&#34;&gt;Examples&lt;/a&gt;: Check out some example code!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blinks.lnet.in/getting-started/&#34;&gt;Getting Started&lt;/a&gt;: Get started with $project&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blinks.lnet.in/examples/&#34;&gt;Examples&lt;/a&gt;: Check out some example code!&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
